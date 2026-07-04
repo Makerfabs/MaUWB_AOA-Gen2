@@ -1,0 +1,4 @@
+---- system_turnoff_stime Matches (3 in 3 files) ----
+App_Moudle_Device_TurnOff in Generic.c (Components\APP) : 	sys_state.system_turnoff_stime = portGetTickCnt();
+{anonSystem_State_t} in Generic.h (Components\APP) : 	uint32_t       system_turnoff_stime;//系统关机开始时间
+SysTick_Handler in stm32f10x_it.c (Components\Main) : 		if(portGetTickCnt() - sys_state.system_turnoff_stime  > 2000)

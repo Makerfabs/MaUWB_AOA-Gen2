@@ -1,0 +1,16 @@
+.\output\cmd.o: ..\..\Components\APP\cmd.c
+.\output\cmd.o: ../../Components/APP/cmd.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\output\cmd.o: ../../Components/APP/cmd_fn.h
+.\output\cmd.o: ..\..\Components\APP\Generic_cmd.h
+.\output\cmd.o: ../../Components/OSAL/OSAL_Comdef.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\cmd.o: D:\tool\KEIL\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\output\cmd.o: ../../Components/OSAL/OSAL.h
+.\output\cmd.o: ../../Components/HAL/DW/dw_twr/uwb_frames.h

@@ -1,0 +1,11 @@
+.\output\tag_pos.o: ..\..\Components\HAL\DW\dw_twr\tag_pos.c
+.\output\tag_pos.o: ..\..\Components\HAL\DW\dw_twr\tag_pos.h
+.\output\tag_pos.o: ../../Components/OSAL/OSAL_Comdef.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\output\tag_pos.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

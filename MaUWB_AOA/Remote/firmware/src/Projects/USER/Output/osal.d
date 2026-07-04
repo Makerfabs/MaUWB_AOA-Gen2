@@ -1,0 +1,12 @@
+.\output\osal.o: ..\..\Components\OSAL\OSAL.c
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdio.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\ctype.h
+.\output\osal.o: ..\..\Components\OSAL\OSAL.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdbool.h
+.\output\osal.o: ..\..\Components\OSAL\OSAL_Comdef.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\math.h
+.\output\osal.o: C:\Users\mail\AppData\Local\Keil_v5\ARM\arm5_compiler\Bin\..\include\assert.h

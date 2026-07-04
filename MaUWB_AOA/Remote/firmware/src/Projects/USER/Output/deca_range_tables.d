@@ -1,0 +1,13 @@
+.\output\deca_range_tables.o: ..\..\Components\HAL\DW\decadriver\deca_range_tables.c
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\deca_range_tables.o: ..\..\Components\HAL\DW\decadriver\deca_device_api.h
+.\output\deca_range_tables.o: ..\..\Components\HAL\DW\decadriver\deca_param_types.h
+.\output\deca_range_tables.o: ..\..\Components\HAL\DW\decadriver\deca_types.h
+.\output\deca_range_tables.o: ../../Components/HAL/DW/compiler/compiler.h
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\output\deca_range_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
